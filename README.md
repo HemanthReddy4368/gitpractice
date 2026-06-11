@@ -6,7 +6,7 @@
 **bold text**
 *italic text*
 
-`inline code`
+`inline`
 
 ```
 print("code block")
